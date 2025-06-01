@@ -5,8 +5,8 @@
   "description": "Extension to collect Browsing History for SurfSense.",
   "author": "https://github.com/MODSetter",
   "scripts": {
-    "dev": "plasmo dev",
-    "build": "plasmo build",
+    "dev": "node init && plasmo dev",
+    "build": "node init && plasmo build",
     "package": "plasmo package"
   },
   "dependencies": {
