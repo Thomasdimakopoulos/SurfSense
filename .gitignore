@@ -21,5 +21,6 @@ backend/testfiles
 vectorstores/*
 vectorstores/
 .vectorstores
-config.bat
 node_modules
+
+config.bat
